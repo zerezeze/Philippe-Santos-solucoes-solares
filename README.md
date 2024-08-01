@@ -24,3 +24,5 @@ Confira o site através do link: https://zerezeze.github.io/felipe-solucoes-sola
 Para mais informações sobre o projeto ou para discutir futuras colaborações, envie um e-mail para joseevertonmotarodrigues@gmail.com
 
 Obrigado por visitar o repositório do site da Felipe Soluções Solares!
+
+<img src="readme_image.png" />
