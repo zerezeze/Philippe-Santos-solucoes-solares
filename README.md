@@ -1,10 +1,10 @@
 ## Felipe Soluções Solares
 
-Bem-vindo ao repositório do site da Felipe Soluções Solares. Este projeto foi desenvolvido para apresentar e promover os serviços de uma empresa especializada em soluções de energia solar.
+Bem-vindo ao repositório do site da Philippe Santos Soluções Solares. Este projeto foi desenvolvido para apresentar e promover os serviços de uma empresa especializada em soluções de energia solar.
 
 ## Descrição do Projeto
 
-O site da Felipe Soluções Solares foi criado para fornecer informações detalhadas sobre as soluções oferecidas pela empresa, incluindo a instalação de painéis solares, benefícios da energia solar, e como a tecnologia pode transformar a geração e consumo de energia. O design é moderno, com foco em uma experiência de usuário agradável e informativa, e é totalmente responsivo para garantir uma visualização adequada em qualquer dispositivo.
+O site da Philippe Santos Soluções Solares foi criado para fornecer informações detalhadas sobre as soluções oferecidas pela empresa, incluindo a instalação de painéis solares, benefícios da energia solar, e como a tecnologia pode transformar a geração e consumo de energia. O design é moderno, com foco em uma experiência de usuário agradável e informativa, e é totalmente responsivo para garantir uma visualização adequada em qualquer dispositivo.
 
 ## Tecnologias Utilizadas
 
@@ -23,6 +23,6 @@ Confira o site através do link: https://zerezeze.github.io/felipe-solucoes-sola
 ## Contato
 Para mais informações sobre o projeto ou para discutir futuras colaborações, envie um e-mail para joseevertonmotarodrigues@gmail.com
 
-Obrigado por visitar o repositório do site da Felipe Soluções Solares!
+Obrigado por visitar o repositório do site da Philippe Santos Soluções Solares!
 
 <img src="readme_image.png" />
